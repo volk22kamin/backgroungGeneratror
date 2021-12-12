@@ -1,0 +1,19 @@
+{
+  "name": "bcggenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volk22kamin/bcgGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volk22kamin/bcgGenerator/issues"
+  },
+  "homepage": "https://github.com/volk22kamin/bcgGenerator#readme"
+}
